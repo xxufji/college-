@@ -1,0 +1,239 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>photo/Line8 7.png</file>
+    <file>photo/Line8 7.png</file>
+    <file>photo/Line8 1.2.png</file>
+    <file>photo/Line8 1.png</file>
+    <file>photo/Line8 2.2.png</file>
+    <file>photo/Line8 2.png</file>
+    <file>photo/Line8 3.2.png</file>
+    <file>photo/Line8 3.png</file>
+    <file>photo/Line8 4.2.png</file>
+    <file>photo/Line8 4.png</file>
+    <file>photo/Line8 5.2.png</file>
+    <file>photo/Line8 5.png</file>
+    <file>photo/Line8 6.2.png</file>
+    <file>photo/Line8 6.png</file>
+    <file>photo/Line8 7.2.png</file>
+    <file>photo/Line8 7.png</file>
+    <file>photo/Line8 8.2.png</file>
+    <file>photo/Line8 8.png</file>
+    <file>photo/Line8 9.2.png</file>
+    <file>photo/Line8 9.png</file>
+    <file>photo/Line8 10.2.png</file>
+    <file>photo/Line8 10.png</file>
+    <file>photo/Line8 11.2.png</file>
+    <file>photo/Line8 11.png</file>
+    <file>photo/Line8 13.2.png</file>
+    <file>photo/Line8 13.png</file>
+    <file>photo/Line8 14.2.png</file>
+    <file>photo/Line8 14.png</file>
+    <file>photo/Line7 1.2.png</file>
+    <file>photo/Line7 1.png</file>
+    <file>photo/Line7 2.2.png</file>
+    <file>photo/Line7 2.png</file>
+    <file>photo/Line7 3.2.png</file>
+    <file>photo/Line7 3.png</file>
+    <file>photo/Line7 4.2.png</file>
+    <file>photo/Line7 4.png</file>
+    <file>photo/Line7 5.2.png</file>
+    <file>photo/Line7 5.png</file>
+    <file>photo/Line7 6.2.png</file>
+    <file>photo/Line7 6.png</file>
+    <file>photo/Line7 7.2.png</file>
+    <file>photo/Line7 7.png</file>
+    <file>photo/Line7 8.2.png</file>
+    <file>photo/Line7 8.png</file>
+    <file>photo/Line6 1.2.png</file>
+    <file>photo/Line6 1.png</file>
+    <file>photo/Line6 2.2.png</file>
+    <file>photo/Line6 2.png</file>
+    <file>photo/Line6 3.2.png</file>
+    <file>photo/Line6 3.png</file>
+    <file>photo/Line6 4.2.png</file>
+    <file>photo/Line6 4.png</file>
+    <file>photo/Line6 5.2.png</file>
+    <file>photo/Line6 5.png</file>
+    <file>photo/Line6 6.2.png</file>
+    <file>photo/Line6 6.png</file>
+    <file>photo/Line6 7.2.png</file>
+    <file>photo/Line6 7.png</file>
+    <file>photo/Line6 8.2.png</file>
+    <file>photo/Line6 8.png</file>
+    <file>photo/Line6 9.2.png</file>
+    <file>photo/Line6 9.png</file>
+    <file>photo/Line6 10.2.png</file>
+    <file>photo/Line6 10.png</file>
+    <file>photo/Line5 1.2.png</file>
+    <file>photo/Line5 1.png</file>
+    <file>photo/Line5 2.2.png</file>
+    <file>photo/Line5 2.png</file>
+    <file>photo/Line5 3.2.png</file>
+    <file>photo/Line5 3.png</file>
+    <file>photo/Line5 4.2.png</file>
+    <file>photo/Line5 4.png</file>
+    <file>photo/Line5 5.2.png</file>
+    <file>photo/Line5 5.png</file>
+    <file>photo/Line5 6.2.png</file>
+    <file>photo/Line5 6.png</file>
+    <file>photo/Line5 7.2.png</file>
+    <file>photo/Line5 7.png</file>
+    <file>photo/Line5 8.2.png</file>
+    <file>photo/Line5 8.png</file>
+    <file>photo/Line5 9.2.png</file>
+    <file>photo/Line5 9.png</file>
+    <file>photo/Line5 10.2.png</file>
+    <file>photo/Line5 10.png</file>
+    <file>photo/Line3 1.2.png</file>
+    <file>photo/Line3 1.png</file>
+    <file>photo/Line3 2.2.png</file>
+    <file>photo/Line3 2.png</file>
+    <file>photo/Line3 3.2.png</file>
+    <file>photo/Line3 3.png</file>
+    <file>photo/Line3 4.2.png</file>
+    <file>photo/Line3 4.png</file>
+    <file>photo/Line3 5.2.png</file>
+    <file>photo/Line3 5.png</file>
+    <file>photo/Line3 6.2.png</file>
+    <file>photo/Line3 6.png</file>
+    <file>photo/Line3 7.2.png</file>
+    <file>photo/Line3 7.png</file>
+    <file>photo/Line3 8.2.png</file>
+    <file>photo/Line3 8.png</file>
+    <file>photo/Line3 9.2.png</file>
+    <file>photo/Line3 9.png</file>
+    <file>photo/Line4 1.2.png</file>
+    <file>photo/Line4 1.png</file>
+    <file>photo/Line4 2.2.png</file>
+    <file>photo/Line4 2.png</file>
+    <file>photo/Line4 3.2.png</file>
+    <file>photo/Line4 3.png</file>
+    <file>photo/Line4 4.2.png</file>
+    <file>photo/Line4 4.png</file>
+    <file>photo/Line4 5.2.png</file>
+    <file>photo/Line4 5.png</file>
+    <file>photo/Line4 6.2.png</file>
+    <file>photo/Line4 6.png</file>
+    <file>photo/Line4 7.2.png</file>
+    <file>photo/Line4 7.png</file>
+    <file>photo/Line4 8.2.png</file>
+    <file>photo/Line4 8.png</file>
+    <file>photo/Line2 1.2.png</file>
+    <file>photo/Line2 1.png</file>
+    <file>photo/Line2 2.2.png</file>
+    <file>photo/Line2 2.png</file>
+    <file>photo/Line2 3.2.png</file>
+    <file>photo/Line2 3.png</file>
+    <file>photo/Line2 4.2.png</file>
+    <file>photo/Line2 4.png</file>
+    <file>photo/Line2 5.2.png</file>
+    <file>photo/Line2 5.png</file>
+    <file>photo/Line2 6.2.png</file>
+    <file>photo/Line2 6.png</file>
+    <file>photo/Line2 7.2.png</file>
+    <file>photo/Line2 7.png</file>
+    <file>photo/Line2 8.2.png</file>
+    <file>photo/Line2 8.png</file>
+    <file>photo/Line2 9.2.png</file>
+    <file>photo/Line2 9.png</file>
+    <file>photo/Line2 10.2.png</file>
+    <file>photo/Line2 10.png</file>
+    <file>photo/Line2 1.2.png</file>
+    <file>photo/Line2 1.png</file>
+    <file>photo/Line2 2.2.png</file>
+    <file>photo/Line2 2.png</file>
+    <file>photo/Line2 3.2.png</file>
+    <file>photo/Line2 3.png</file>
+    <file>photo/Line2 4.2.png</file>
+    <file>photo/Line2 4.png</file>
+    <file>photo/Line2 5.2.png</file>
+    <file>photo/Line2 5.png</file>
+    <file>photo/Line2 6.2.png</file>
+    <file>photo/Line2 6.png</file>
+    <file>photo/Line2 7.2.png</file>
+    <file>photo/Line2 7.png</file>
+    <file>photo/Line2 8.2.png</file>
+    <file>photo/Line2 8.png</file>
+    <file>photo/Line2 9.2.png</file>
+    <file>photo/Line2 9.png</file>
+    <file>photo/Line2 10.2.png</file>
+    <file>photo/Line2 10.png</file>
+    <file>photo/Line 1.2.png</file>
+    <file>photo/Line 2.2.png</file>
+    <file>photo/Line 3.2.png</file>
+    <file>photo/Line 4.2.png</file>
+    <file>photo/Line 1.png</file>
+    <file>photo/Line 2.png</file>
+    <file>photo/Line 3.png</file>
+    <file>photo/Line 4.png</file>
+    <file>photo/lvl8.png</file>
+    <file>photo/Line 3.png</file>
+    <file>photo/fig8.png</file>
+    <file>photo/figura_7.png</file>
+    <file>photo/lvl7.png</file>
+    <file>photo/lvl6.png</file>
+    <file>photo/figura-6.png</file>
+    <file>photo/figura_5.png</file>
+    <file>photo/lvl5.png</file>
+    <file>photo/lvl4.png</file>
+    <file>photo/figura_4.png</file>
+    <file>photo/figura_3.png</file>
+    <file>photo/lvl3.png</file>
+    <file>photo/figura_2.png</file>
+    <file>photo/lvl1.png</file>
+    <file>photo/lvl2.png</file>
+    <file>photo/Ellipse 1.png</file>
+    <file>photo/pravila.png</file>
+    <file>photo/Ellipse 2.png</file>
+    <file>photo/figura_1.png</file>
+    <file>photo/счёт.png</file>
+    <file>photo/уровень.png</file>
+    <file>photo/otmena.png</file>
+    <file>photo/otmena2.png</file>
+    <file>photo/zanovo.png</file>
+    <file>photo/zanovo2.png</file>
+    <file>photo/fon_lvl.png</file>
+    <file>photo/1.png</file>
+    <file>photo/1-2.png</file>
+    <file>photo/2.png</file>
+    <file>photo/2-2.png</file>
+    <file>photo/3.png</file>
+    <file>photo/3-2.png</file>
+    <file>photo/4.png</file>
+    <file>photo/4-2.png</file>
+    <file>photo/5.png</file>
+    <file>photo/5-2.png</file>
+    <file>photo/6 (1).png</file>
+    <file>photo/6.png</file>
+    <file>photo/7.png</file>
+    <file>photo/7-2.png</file>
+    <file>photo/8.png</file>
+    <file>photo/8-2.png</file>
+    <file>photo/kvadrik.png</file>
+    <file>photo/уровни.png</file>
+    <file>photo/звук.png</file>
+    <file>photo/back2.png</file>
+    <file>photo/back.png</file>
+    <file>photo/pravila.png</file>
+    <file>photo/settings-off.png</file>
+    <file>photo/settings-off2.png</file>
+    <file>photo/on2.png</file>
+    <file>photo/on2.png</file>
+    <file>photo/settings-on.png</file>
+    <file>photo/home2.png</file>
+    <file>photo/home.png</file>
+    <file>photo/звук.png</file>
+    <file>photo/settingss.png</file>
+    <file>photo/vopros2.png</file>
+    <file>photo/выход2.png</file>
+    <file>photo/настройки2.png</file>
+    <file>photo/играть2.png</file>
+    <file>photo/fon.png</file>
+    <file>photo/Обведи не отрывая лапки.png</file>
+    <file>photo/vopros.png</file>
+    <file>photo/выход.png</file>
+    <file>photo/звук.png</file>
+    <file>photo/играть.png</file>
+    <file>photo/настройки.png</file>
+  </qresource>
+</RCC>
